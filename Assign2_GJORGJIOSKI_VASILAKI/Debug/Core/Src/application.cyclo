@@ -1,0 +1,11 @@
+../Core/Src/application.c:22:6:float_to_string	1
+../Core/Src/application.c:37:6:Error_Handler	1
+../Core/Src/application.c:49:6:SystemClock_Config	4
+../Core/Src/application.c:111:13:initialize_GPIO_default	1
+../Core/Src/application.c:137:13:initialize_GPIO_manual	1
+../Core/Src/application.c:164:13:intialize_ADC_manual	3
+../Core/Src/application.c:210:13:intialize_ADC_default	3
+../Core/Src/application.c:257:13:initialize_UART_manual	2
+../Core/Src/application.c:281:13:initialize_UART_default	2
+../Core/Src/application.c:306:7:read_ADC_value	1
+../Core/Src/application.c:318:6:send_voltage_over_UART	1

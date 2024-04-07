@@ -1,0 +1,2 @@
+../Drivers/UART/uart_driver.c:14:6:UART_Init	1
+../Drivers/UART/uart_driver.c:24:6:send_string_over_UART	2
